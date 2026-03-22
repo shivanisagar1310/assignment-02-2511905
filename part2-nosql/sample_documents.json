@@ -4,7 +4,7 @@
     "name": "Samsung Galaxy S26",
     "category": "Electronics",
     "price": 75000,
-    "manufacturedBy": "Samsung",
+    "brand": "Samsung",
     "productDetails": {
       "warranty": "2 years",
       "voltage": "220V",
